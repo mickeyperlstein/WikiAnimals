@@ -16,3 +16,6 @@ Bonus work (choose whether and as many as you like):
 1. Output your results to an html file.
 
 Tips: Feel free to use BeautifulSoup and Requests
+
+pip install poetry
+Poetry install
